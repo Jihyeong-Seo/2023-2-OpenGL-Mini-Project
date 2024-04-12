@@ -1,0 +1,2 @@
+C:\Program Files\source\repos\openGL1\Debug\openGL1.exe
+C:\Program Files\source\repos\MiniProject\Debug\MiniProject.exe

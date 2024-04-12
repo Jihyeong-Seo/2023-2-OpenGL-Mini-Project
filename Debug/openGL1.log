@@ -1,0 +1,16 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: 중간 디렉터리(Debug\)에 다른 프로젝트(openGL1.vcxproj)에서 공유하는 파일이 포함되어 있습니다.  이로 인해 잘못된 정리 및 다시 빌드 동작이 수행될 수 있습니다.
+  main.cpp
+C:\Program Files\source\repos\MiniProject\func.h(57,20): warning C4244: '인수': 'double'에서 '_Ty'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Ty=float
+          ]
+C:\Program Files\source\repos\MiniProject\main.cpp(101,43): warning C4244: '=': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Program Files\source\repos\MiniProject\main.cpp(102,41): warning C4244: '=': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Program Files\source\repos\MiniProject\main.cpp(103,44): warning C4244: '=': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Program Files\source\repos\MiniProject\main.cpp(142,40): warning C4244: '=': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Program Files\source\repos\MiniProject\main.cpp(143,38): warning C4244: '=': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Program Files\source\repos\MiniProject\main.cpp(144,41): warning C4244: '=': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Program Files\source\repos\MiniProject\main.cpp(347,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Program Files\source\repos\MiniProject\main.cpp(361,29): warning C4018: '<=': signed 또는 unsigned가 일치하지 않습니다.
+  openGL1.vcxproj -> C:\Program Files\source\repos\MiniProject\Debug\MiniProject.exe
