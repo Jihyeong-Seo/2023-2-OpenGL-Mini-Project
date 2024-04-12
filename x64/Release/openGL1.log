@@ -1,0 +1,23 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: 중간 디렉터리(x64\Release\)에 다른 프로젝트(openGL1.vcxproj)에서 공유하는 파일이 포함되어 있습니다.  이로 인해 잘못된 정리 및 다시 빌드 동작이 수행될 수 있습니다.
+  main.cpp
+C:\Program Files\source\repos\MiniProject\func.h(63,20): warning C4244: '인수': 'double'에서 '_Ty'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Ty=float
+          ]
+C:\Program Files\source\repos\MiniProject\func.h(102,12): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Program Files\source\repos\MiniProject\func.h(113,45): warning C4267: '+=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Program Files\source\repos\MiniProject\func.h(114,47): warning C4267: '+=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Program Files\source\repos\MiniProject\func.h(115,46): warning C4267: '+=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Program Files\source\repos\MiniProject\func.h(136,19): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Program Files\source\repos\MiniProject\main.cpp(349,14): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Program Files\source\repos\MiniProject\main.cpp(351,16): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Program Files\source\repos\MiniProject\main.cpp(472,85): warning C4244: '인수': 'GLint'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Program Files\source\repos\MiniProject\main.cpp(472,61): warning C4244: '인수': 'GLint'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Program Files\source\repos\MiniProject\main.cpp(472,37): warning C4244: '인수': 'GLint'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Program Files\source\repos\MiniProject\main.cpp(503,39): warning C4244: '=': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Program Files\source\repos\MiniProject\main.cpp(504,39): warning C4244: '=': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Program Files\source\repos\MiniProject\main.cpp(505,41): warning C4244: '=': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+main.obj : error LNK2001: 확인할 수 없는 외부 기호 "void __cdecl mapTexture2(char const *)" (?mapTexture2@@YAXPEBD@Z)
+main.obj : error LNK2001: 확인할 수 없는 외부 기호 "void __cdecl mapTexture1(char const *)" (?mapTexture1@@YAXPEBD@Z)
+C:\Program Files\source\repos\MiniProject\x64\Release\MiniProject.exe : fatal error LNK1120: 2개의 확인할 수 없는 외부 참조입니다.
